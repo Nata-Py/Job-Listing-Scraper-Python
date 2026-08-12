@@ -1,8 +1,3 @@
-#Job title
-#Company name
-#Location
-#Job detail page URL
-
 from bs4 import BeautifulSoup
 import requests
 import csv
